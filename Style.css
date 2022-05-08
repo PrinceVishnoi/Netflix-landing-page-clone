@@ -46,7 +46,7 @@ align-items: center;
 
 .root{
 background-size: cover;
-background-image: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url(./backimg.jpg);
+background-image: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url(https://assets.nflxext.com/ffe/siteui/vlv3/f841d4c7-10e1-40af-bcae-07a3f8dc141a/8e07a611-4ced-4d4e-81e6-d278862c952b/IN-en-20220502-popsignuptwoweeks-perspective_alpha_website_large.jpg);
 background-repeat: no-repeat;
 background-position: center;
 }
